@@ -1,0 +1,16 @@
+SCRIPTS en package.json
+    - start es para despliegue
+    - dev es para desarrollo
+
+
+SQL = TABLAS = REGISTROS
+NoSQL = COLECCIONES = DOCUMENTOS
+
+
+
+
+PARA CADA TABLA/COLECCIÓN
+1. Creación del modelo
+2. Creación del controlador
+3. Ruta
+4. Registro de ruta en el server
